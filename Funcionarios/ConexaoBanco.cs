@@ -1,0 +1,19 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Funcionarios
+{
+    static class ConexaoBanco
+    {
+        private const string servidor = "Local instance MySQL80";
+        private const string bancoDados = "dbFuncionarios";
+        private const string usuario = "root";
+        private const string senha = "123456";
+
+        static public string conexaoBanco = $"server={servidor}; user id={usuario}; database={bancoDados}; password={senha}";
+
+    }
+}
