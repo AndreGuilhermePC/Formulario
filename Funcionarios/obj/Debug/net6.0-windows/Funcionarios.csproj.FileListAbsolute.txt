@@ -23,3 +23,15 @@ C:\Users\Andre\Desktop\Projetos\Funcionarios\Funcionarios\obj\Debug\net6.0-windo
 C:\Users\Andre\Desktop\Projetos\Funcionarios\Funcionarios\obj\Debug\net6.0-windows\Funcionarios.genruntimeconfig.cache
 C:\Users\Andre\Desktop\Projetos\Funcionarios\Funcionarios\obj\Debug\net6.0-windows\ref\Funcionarios.dll
 C:\Users\Andre\Desktop\Projetos\Funcionarios\Funcionarios\obj\Debug\net6.0-windows\Funcionarios.btnCadastrar.resources
+C:\Users\Andre\Desktop\Projetos\Funcionarios\Funcionarios\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\Andre\Desktop\Projetos\Funcionarios\Funcionarios\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Andre\Desktop\Projetos\Funcionarios\Funcionarios\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\Andre\Desktop\Projetos\Funcionarios\Funcionarios\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Andre\Desktop\Projetos\Funcionarios\Funcionarios\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+C:\Users\Andre\Desktop\Projetos\Funcionarios\Funcionarios\bin\Debug\net6.0-windows\System.Text.Encoding.CodePages.dll
+C:\Users\Andre\Desktop\Projetos\Funcionarios\Funcionarios\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+C:\Users\Andre\Desktop\Projetos\Funcionarios\Funcionarios\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Andre\Desktop\Projetos\Funcionarios\Funcionarios\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Andre\Desktop\Projetos\Funcionarios\Funcionarios\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Andre\Desktop\Projetos\Funcionarios\Funcionarios\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\Andre\Desktop\Projetos\Funcionarios\Funcionarios\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll

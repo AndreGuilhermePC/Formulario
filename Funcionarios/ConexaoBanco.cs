@@ -8,7 +8,7 @@ namespace Funcionarios
 {
     static class ConexaoBanco
     {
-        private const string servidor = "Local instance MySQL80";
+        private const string servidor = "localhost";
         private const string bancoDados = "dbFuncionarios";
         private const string usuario = "root";
         private const string senha = "123456";
