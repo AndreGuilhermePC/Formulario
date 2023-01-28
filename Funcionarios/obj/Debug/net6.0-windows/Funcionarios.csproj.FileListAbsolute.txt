@@ -35,3 +35,40 @@ C:\Users\Andre\Desktop\Projetos\Funcionarios\Funcionarios\bin\Debug\net6.0-windo
 C:\Users\Andre\Desktop\Projetos\Funcionarios\Funcionarios\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\Andre\Desktop\Projetos\Funcionarios\Funcionarios\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
 C:\Users\Andre\Desktop\Projetos\Funcionarios\Funcionarios\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Andre\OneDrive\Área de Trabalho\Projetos\Funcionarios\Funcionarios\bin\Debug\net6.0-windows\Funcionarios.exe
+C:\Users\Andre\OneDrive\Área de Trabalho\Projetos\Funcionarios\Funcionarios\bin\Debug\net6.0-windows\Funcionarios.deps.json
+C:\Users\Andre\OneDrive\Área de Trabalho\Projetos\Funcionarios\Funcionarios\bin\Debug\net6.0-windows\Funcionarios.runtimeconfig.json
+C:\Users\Andre\OneDrive\Área de Trabalho\Projetos\Funcionarios\Funcionarios\bin\Debug\net6.0-windows\Funcionarios.dll
+C:\Users\Andre\OneDrive\Área de Trabalho\Projetos\Funcionarios\Funcionarios\bin\Debug\net6.0-windows\Funcionarios.pdb
+C:\Users\Andre\OneDrive\Área de Trabalho\Projetos\Funcionarios\Funcionarios\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\Andre\OneDrive\Área de Trabalho\Projetos\Funcionarios\Funcionarios\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Andre\OneDrive\Área de Trabalho\Projetos\Funcionarios\Funcionarios\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Andre\OneDrive\Área de Trabalho\Projetos\Funcionarios\Funcionarios\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Andre\OneDrive\Área de Trabalho\Projetos\Funcionarios\Funcionarios\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\Andre\OneDrive\Área de Trabalho\Projetos\Funcionarios\Funcionarios\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\Andre\OneDrive\Área de Trabalho\Projetos\Funcionarios\Funcionarios\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\Andre\OneDrive\Área de Trabalho\Projetos\Funcionarios\Funcionarios\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Andre\OneDrive\Área de Trabalho\Projetos\Funcionarios\Funcionarios\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Andre\OneDrive\Área de Trabalho\Projetos\Funcionarios\Funcionarios\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\Andre\OneDrive\Área de Trabalho\Projetos\Funcionarios\Funcionarios\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Andre\OneDrive\Área de Trabalho\Projetos\Funcionarios\Funcionarios\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+C:\Users\Andre\OneDrive\Área de Trabalho\Projetos\Funcionarios\Funcionarios\bin\Debug\net6.0-windows\System.Text.Encoding.CodePages.dll
+C:\Users\Andre\OneDrive\Área de Trabalho\Projetos\Funcionarios\Funcionarios\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+C:\Users\Andre\OneDrive\Área de Trabalho\Projetos\Funcionarios\Funcionarios\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Andre\OneDrive\Área de Trabalho\Projetos\Funcionarios\Funcionarios\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Andre\OneDrive\Área de Trabalho\Projetos\Funcionarios\Funcionarios\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Andre\OneDrive\Área de Trabalho\Projetos\Funcionarios\Funcionarios\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\Andre\OneDrive\Área de Trabalho\Projetos\Funcionarios\Funcionarios\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Andre\OneDrive\Área de Trabalho\Projetos\Funcionarios\Funcionarios\obj\Debug\net6.0-windows\Funcionarios.csproj.AssemblyReference.cache
+C:\Users\Andre\OneDrive\Área de Trabalho\Projetos\Funcionarios\Funcionarios\obj\Debug\net6.0-windows\Funcionarios.btnCadastrar.resources
+C:\Users\Andre\OneDrive\Área de Trabalho\Projetos\Funcionarios\Funcionarios\obj\Debug\net6.0-windows\Funcionarios.csproj.GenerateResource.cache
+C:\Users\Andre\OneDrive\Área de Trabalho\Projetos\Funcionarios\Funcionarios\obj\Debug\net6.0-windows\Funcionarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andre\OneDrive\Área de Trabalho\Projetos\Funcionarios\Funcionarios\obj\Debug\net6.0-windows\Funcionarios.AssemblyInfoInputs.cache
+C:\Users\Andre\OneDrive\Área de Trabalho\Projetos\Funcionarios\Funcionarios\obj\Debug\net6.0-windows\Funcionarios.AssemblyInfo.cs
+C:\Users\Andre\OneDrive\Área de Trabalho\Projetos\Funcionarios\Funcionarios\obj\Debug\net6.0-windows\Funcionarios.csproj.CoreCompileInputs.cache
+C:\Users\Andre\OneDrive\Área de Trabalho\Projetos\Funcionarios\Funcionarios\obj\Debug\net6.0-windows\Funcionarios.csproj.CopyComplete
+C:\Users\Andre\OneDrive\Área de Trabalho\Projetos\Funcionarios\Funcionarios\obj\Debug\net6.0-windows\Funcionarios.dll
+C:\Users\Andre\OneDrive\Área de Trabalho\Projetos\Funcionarios\Funcionarios\obj\Debug\net6.0-windows\refint\Funcionarios.dll
+C:\Users\Andre\OneDrive\Área de Trabalho\Projetos\Funcionarios\Funcionarios\obj\Debug\net6.0-windows\Funcionarios.pdb
+C:\Users\Andre\OneDrive\Área de Trabalho\Projetos\Funcionarios\Funcionarios\obj\Debug\net6.0-windows\Funcionarios.genruntimeconfig.cache
+C:\Users\Andre\OneDrive\Área de Trabalho\Projetos\Funcionarios\Funcionarios\obj\Debug\net6.0-windows\ref\Funcionarios.dll

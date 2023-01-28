@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Andre\\Desktop\\Projetos\\Funcionarios\\Funcionarios\\Funcionarios.csproj": {}
+    "C:\\Users\\Andre\\OneDrive\\Área de Trabalho\\Projetos\\Funcionarios\\Funcionarios\\Funcionarios.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Andre\\Desktop\\Projetos\\Funcionarios\\Funcionarios\\Funcionarios.csproj": {
+    "C:\\Users\\Andre\\OneDrive\\Área de Trabalho\\Projetos\\Funcionarios\\Funcionarios\\Funcionarios.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Andre\\Desktop\\Projetos\\Funcionarios\\Funcionarios\\Funcionarios.csproj",
+        "projectUniqueName": "C:\\Users\\Andre\\OneDrive\\Área de Trabalho\\Projetos\\Funcionarios\\Funcionarios\\Funcionarios.csproj",
         "projectName": "Funcionarios",
-        "projectPath": "C:\\Users\\Andre\\Desktop\\Projetos\\Funcionarios\\Funcionarios\\Funcionarios.csproj",
+        "projectPath": "C:\\Users\\Andre\\OneDrive\\Área de Trabalho\\Projetos\\Funcionarios\\Funcionarios\\Funcionarios.csproj",
         "packagesPath": "C:\\Users\\Andre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Andre\\Desktop\\Projetos\\Funcionarios\\Funcionarios\\obj\\",
+        "outputPath": "C:\\Users\\Andre\\OneDrive\\Área de Trabalho\\Projetos\\Funcionarios\\Funcionarios\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
