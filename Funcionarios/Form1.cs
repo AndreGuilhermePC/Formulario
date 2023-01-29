@@ -180,5 +180,52 @@ namespace Funcionarios
                 txtCpf.Focus();
             }
         }
+
+        private void btnDeletar_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                if (!txtNome.Text.Equals("") && !txtEmail.Text.Equals("") && !txtEndereco.Text.Equals(""))
+                {
+                    CadastroFuncionarios cadFuncionario = new CadastroFuncionarios();
+                    cadFuncionario.Id = int.Parse(lblid.Text);
+
+                    if (cadFuncionario.deletarFuncionario())
+                    {
+                        MessageBox.Show($" O funcionário foi excluído com sucesso!!!!!!!!!");
+                        txtCpf.Clear();
+                        txtEmail.Clear();
+                        txtEndereco.Clear();
+                        txtNome.Clear();
+                        lblid.Text = "";
+                        txtCpf.Focus();
+                    }
+                    else
+                    {
+                        MessageBox.Show($"Não foi possível excluir o funcionário");
+                        txtCpf.Clear();
+                        txtEmail.Clear();
+                        txtEndereco.Clear();
+                        txtNome.Clear();
+                        lblid.Text = "";
+                        txtCpf.Focus();
+                    }
+                }
+                else
+                {
+                    MessageBox.Show($"Favor informar qual o funcionario deseja excluir");
+                    txtCpf.Clear();
+                    txtEmail.Clear();
+                    txtEndereco.Clear();
+                    txtNome.Clear();
+                    lblid.Text = "";
+                    txtCpf.Focus();
+                }
+            }
+            catch(Exception ex)
+            {
+                MessageBox.Show("Erro ao excluir funcionário " + ex.Message);
+            }
+        }
     }
 }

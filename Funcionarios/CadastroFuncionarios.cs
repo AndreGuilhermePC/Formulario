@@ -1,4 +1,5 @@
-﻿using MySql.Data.MySqlClient;
+﻿using Microsoft.VisualBasic;
+using MySql.Data.MySqlClient;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -112,5 +113,26 @@ namespace Funcionarios
             }
         }
 
+        public bool deletarFuncionario()
+        {
+            try
+            {
+                MySqlConnection conexaoMysql = new MySqlConnection(ConexaoBanco.conexaoBanco);
+                conexaoMysql.Open();
+
+                string delete = $"delete from funcionarios where id = '{Id}'";
+
+                MySqlCommand comandoSQL = conexaoMysql.CreateCommand();
+                comandoSQL.CommandText = delete;
+
+                comandoSQL.ExecuteNonQuery();
+                return true;
+            }
+            catch(Exception ex)
+            {
+                MessageBox.Show("Erro Banco de dados - método dele deletarFuncionario " + ex.Message);
+                return false;
+            }
+        }
     }
 }
